@@ -1,0 +1,6 @@
+node_modules
+.nitro
+.nuxt
+.env
+app/db/dochub.sqlite
+storage
